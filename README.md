@@ -1,6 +1,6 @@
-# DevConnector
+# DevSocial
 
-> Small social network app built with the MERN stack. This is part of my "MERN Stack Front To Back" Udemy course
+> Small social network app built with the MERN stack.
 
 ## Quick Start
 
@@ -36,12 +36,12 @@ module.exports = {
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+George Wisdom
+[George Wisdom]
 
 ### Version
 
-1.0.0
+1.2.0
 
 ### License
 
